@@ -12,7 +12,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **Sobre Mí**
 
 
- 🔭 Actualmente trabajando en [PySpotify Pro](https://github.com/tu-usuario/pyspotify-pro)
+ 🔭 Actualmente trabajando en [PySpotify Pro](https://github.com/Putrefacto669/pyspotify-pro)
 
  🎓 Estudiante de 2do año de Ingeniería en Sistemas
 
@@ -20,7 +20,7 @@
 
  💬 Pregúntame sobre **C#, Python, Java, JavaScript, PHP, MySQL**
 
- 📫 Contáctame: **tu.email@example.com**
+ 📫 Contáctame: **lopezurbina2018@gmail.com**
 
  ⚡ Dato curioso: **Mi primer "Hola Mundo" fue en C#**
 
@@ -29,9 +29,8 @@
 <br>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Conectemos
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tu.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lopezurbina2018@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Putrefacto669)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Mis Tecnologías</b> 
 
