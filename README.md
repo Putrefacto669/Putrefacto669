@@ -114,3 +114,4 @@ features = [
     "🎨 Interfaz moderna inspirada en Spotify",
     "⚡ Arquitectura modular y escalable"
 ]
+
