@@ -12,7 +12,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **Sobre Mí**
 
 
- 🔭 Actualmente trabajando en [PySpotify Pro](https://github.com/Putrefacto669/pyspotify-pro)
+ 🔭 Actualmente trabajando en [PySpotify Pro](https://github.com/Putrefacto669/Spotify-python-Clone)
 
  🌱 Actualmente aprendiendo **React.js y Node.js**
 
