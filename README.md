@@ -1,85 +1,95 @@
-# <h1 align="center">¡Hola! 👋 Soy Josué Urbina</h1>
+<div align="center">
 
-<p align="center">
-  <b>Ingeniería en Sistemas</b> • Backend Developer • ASP.NET Core • C#
-</p>
+# 👋 ¡Hola! Soy **Josué Urbina**
 
-<p align="center">
-  Desarrollo soluciones web enfocadas en la gestión empresarial, arquitectura backend y aplicaciones escalables.
-</p>
+### Backend Developer • Ingeniería en Sistemas • ASP.NET Core
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+%26+C%23;Hotel+Management+Systems;Always+Learning+Something+New" />
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-# 💻 Sobre mí
+# 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas** y desarrollador backend con experiencia construyendo aplicaciones empresariales utilizando **ASP.NET Core** y **C#**.
+```csharp
+public class JosueUrbina
+{
+    public string Location = "Nicaragua";
+    public string Role = "Backend Developer";
 
-Actualmente participo en el desarrollo de **RoomDesk**, una plataforma para la administración hotelera, además de brindar soporte técnico y mantenimiento a sitios web del sector turístico.
+    public string[] Languages =
+    {
+        "C#",
+        "SQL",
+        "JavaScript",
+        "Python",
+        "Java",
+        "Ruby"
+    };
 
-Me interesa el desarrollo de software orientado a productos, la arquitectura de aplicaciones, las bases de datos y las buenas prácticas de ingeniería.
+    public string[] Backend =
+    {
+        "ASP.NET Core MVC",
+        "ASP.NET Core Web API",
+        "Entity Framework Core",
+        "ADO.NET"
+    };
 
----
+    public string[] Databases =
+    {
+        "SQL Server",
+        "PostgreSQL",
+        "Supabase"
+    };
 
-# 🚀 Tecnologías
+    public string[] Tools =
+    {
+        "Git",
+        "GitHub",
+        "Docker",
+        "Linux",
+        "Postman",
+        "Visual Studio"
+    };
 
-### Lenguajes
-
-```text
-C#
-SQL
-JavaScript
-Python
-Java
-Ruby
+    public string CurrentProject = "RoomDesk";
+}
 ```
+
+---
+
+# 💼 Actualmente
+
+🖥️ Backend Developer en **Kawoq**
+
+Actualmente colaboro en el desarrollo de **RoomDesk**, un sistema de gestión hotelera orientado a hoteles y hostales de Centroamérica.
+
+También realizo soporte técnico y mantenimiento para plataformas web del sector hotelero.
+
+---
+
+# 🛠 Tecnologías
+
+<div align="center">
 
 ### Backend
 
-```text
-ASP.NET Core MVC
-ASP.NET Core Web API
-Entity Framework Core
-ADO.NET
-```
+<img src="https://skillicons.dev/icons?i=cs,dotnet"/>
 
 ### Bases de Datos
 
-```text
-SQL Server
-PostgreSQL
-Supabase
-```
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
 ### Herramientas
 
-```text
-Git
-GitHub
-Docker
-Postman
-Visual Studio
-VS Code
-Render
-Linux
-```
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,visualstudio,postman"/>
+
+### Otros
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</div>
 
 ---
 
@@ -87,91 +97,135 @@ Linux
 
 ## 🏨 RoomDesk
 
-Sistema de gestión hotelera desarrollado con **ASP.NET Core MVC**.
+Sistema completo para la administración hotelera.
 
-Características:
+### Características
 
+* Dashboard administrativo
 * Gestión de habitaciones
 * Gestión de huéspedes
 * Reservaciones
 * Reportes PDF
-* Dashboard administrativo
-* Motor público de reservas
-* Persistencia mediante JSON
-* Confirmación por EmailJS
+* Booking Engine
+* Confirmaciones por Email
+* Arquitectura MVC
+* Persistencia Offline (JSON)
 
 ---
 
 ## 💬 AeroChat
 
-Aplicación web desarrollada en **ASP.NET Core**, desplegada utilizando **Docker** y **Render**.
+Aplicación desarrollada con ASP.NET Core desplegada mediante Docker y Render.
 
 ---
 
 ## 🚗 Registro Vehicular
 
-Sistema administrativo desarrollado bajo arquitectura en capas.
+Sistema administrativo construido bajo arquitectura en capas.
 
 Incluye:
 
 * Login
-* CRUD completo
-* Reportes PDF
-* Exportación a Excel
+* CRUD
 * SQL Server
+* Reportes PDF
+* Exportación Excel
 
 ---
 
 ## 🎓 SIUAC WEB
 
-Proyecto académico tipo SaaS para la administración universitaria.
+Proyecto SaaS para la administración universitaria.
 
 ---
 
-# 📊 Estadísticas
+# 📊 GitHub
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Putrefacto669&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putrefacto669&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Putrefacto669&theme=transparent&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📚 Actualmente aprendiendo
+<div align="center">
 
-* Arquitectura de Software
-* Clean Architecture
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Putrefacto669&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Putrefacto669&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Putrefacto669&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🌱 Actualmente Aprendiendo
+
+* Arquitectura Limpia (Clean Architecture)
 * Docker
 * PostgreSQL
 * APIs REST
 * Diseño de Sistemas
+* Patrones de Diseño
 * Cloud Computing
 
 ---
 
-# 🌎 Ubicación
+# 🎯 Objetivos
 
-📍 Nicaragua
+✅ Convertirme en Software Engineer
+
+✅ Especializarme en Backend
+
+✅ Construir productos SaaS
+
+✅ Aprender Kubernetes
+
+✅ Aprender Azure
 
 ---
 
-# 📫 Contacto
+# 🤝 Conecta conmigo
+
+<div align="center">
 
 📧 **[lopezurbina2018@gmail.com](mailto:lopezurbina2018@gmail.com)**
 
+</div>
+
 ---
 
-<p align="center">
+<div align="center">
 
-<i>"Siempre aprendiendo, siempre construyendo."</i>
+> *"First, solve the problem. Then, write the code."*
+> **— John Johnson**
 
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Putrefacto669&style=for-the-badge"/>
+
+</div>
