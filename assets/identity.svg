@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Josué Urbina — Backend Developer</title>
+  <desc id="desc">Estudiante de Ingeniería en Sistemas en Nicaragua. C#, ASP.NET Core y SQL Server.</desc>
+  <rect width="1200" height="330" fill="#101010"/>
+  <path d="M56 58H1144M56 272H1144" stroke="#454545"/>
+  <g fill="#b9b9b9" font-family="'Courier New',monospace" font-size="13" letter-spacing="3">
+    <text x="58" y="38">PUTREFACTO669 / PERSONAL ARCHIVE</text>
+    <text x="1144" y="38" text-anchor="end">NICARAGUA</text>
+  </g>
+  <text x="56" y="166" fill="#f4f1eb" font-family="Georgia,'Times New Roman',serif" font-size="88" letter-spacing="-3">Josué Urbina.</text>
+  <text x="60" y="217" fill="#d1cec8" font-family="Georgia,'Times New Roman',serif" font-size="25" font-style="italic">Entender el sistema. Construir con intención.</text>
+  <g fill="#b9b9b9" font-family="'Courier New',monospace" font-size="13" letter-spacing="2">
+    <text x="58" y="304">BACKEND DEVELOPMENT · SYSTEMS ENGINEERING</text>
+    <text x="1144" y="304" text-anchor="end">C# / .NET / SQL</text>
+  </g>
+</svg>

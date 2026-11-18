@@ -1,246 +1,163 @@
- 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=240&section=header&text=JOSU%C3%89%20URBINA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="./assets/spider-lilies.jpg" width="100%" alt="Lirios araña en blanco y negro" />
+<img src="./assets/identity.svg" width="100%" alt="Josué Urbina — Backend Developer. Entender el sistema. Construir con intención." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1100&color=7DD3FC&center=true&vCenter=true&width=750&lines=Building+systems%2C+not+just+writing+code.;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Backend+Development+%26+Software+Architecture;Currently+building+RoomDesk." alt="Typing SVG" />
+<br />
 
-<br>
+<samp>ESTUDIANTE DE INGENIERÍA EN SISTEMAS · DESARROLLADOR BACKEND</samp>
 
-![Location](https://img.shields.io/badge/Nicaragua-020617?style=for-the-badge&logo=googlemaps&logoColor=7dd3fc)
-![Role](https://img.shields.io/badge/Backend_Developer-0f172a?style=for-the-badge&logo=dotnet&logoColor=7dd3fc)
-![Focus](https://img.shields.io/badge/Software_Engineering-0f172a?style=for-the-badge&logo=codefactor&logoColor=fbbf24)
+<br /><br />
 
-<br>
+[Sobre mí](#01--detrás-del-código) &nbsp; / &nbsp; [Stack](#02--herramientas-del-oficio) &nbsp; / &nbsp; [Proyectos](#03--trabajo-seleccionado) &nbsp; / &nbsp; [Contacto](#05--conversemos)
 
-*“Good software is not only about making things work. It's about making them understandable, maintainable, and meaningful.”*
+<br />
+
+<sub>Nicaragua · Ecosistema .NET · Arquitectura de software · Proyectos con propósito</sub>
 
 </div>
 
----
+<br />
 
-## `01` / About me
+## 01 / Detrás del código
 
-```powershell
-PS C:\Users\Josue> Get-DeveloperProfile
+Soy **Josué Urbina**, estudiante de **Ingeniería en Sistemas** y desarrollador enfocado en **C#, ASP.NET Core y SQL Server**. Me interesa entender cómo encajan las piezas de una aplicación: sus datos, sus reglas y las decisiones que permiten mantenerla en el tiempo.
 
-Name          : Josué Urbina
-Username      : Putrefacto669
-Location      : Nicaragua
-Education     : Systems Engineering
-Role          : Backend Developer
-Primary Stack : C# / ASP.NET Core / SQL Server
-Current Work  : RoomDesk / Hotel Management
-Interests     : Software Architecture / Backend / SaaS
-Philosophy    : Build. Understand. Improve.
-```
+Construyo aplicaciones web, sistemas administrativos y herramientas que resuelven problemas concretos. Actualmente trabajo en **RoomDesk** y en el desarrollo y mantenimiento de soluciones para la industria hotelera.
 
-Soy estudiante de **Ingeniería en Sistemas** y desarrollador enfocado principalmente en el ecosistema **.NET**, el diseño de aplicaciones web y la gestión de bases de datos.
-
-Me interesa construir software que resuelva problemas reales, desde sistemas administrativos y plataformas de reservas hasta herramientas de automatización y aplicaciones web completas.
-
-Mi enfoque de desarrollo se basa en tres principios:
-
-- **Architecture first:** comprender la estructura y las responsabilidades del sistema.
-- **Maintainability matters:** escribir código legible, organizado y sostenible.
-- **Continuous improvement:** aprender mediante proyectos reales, experimentación y resolución de problemas.
-
-Actualmente trabajo en el desarrollo y mantenimiento de soluciones tecnológicas relacionadas con la industria hotelera.
-
----
-
-## `02` / Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cs,python,js,html,css,php,ruby&theme=dark" alt="Programming Languages" />
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode&theme=dark" alt="Backend Technologies" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
-
-**Microsoft SQL Server · T-SQL · ADO.NET · Entity Framework Core**
-
-### Tools & Development Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,windows&theme=dark" alt="Development Tools" />
-
-</div>
-
-<br>
-
-| Area | Technologies & Concepts |
-|:---|:---|
-| **Backend Development** | C#, ASP.NET Core MVC, .NET 8, REST APIs |
-| **Database Engineering** | SQL Server, T-SQL, PostgreSQL, MySQL |
-| **Frontend Integration** | Razor Views, HTML5, CSS3, JavaScript, Bootstrap |
-| **Architecture** | MVC, Layered Architecture, Separation of Concerns |
-| **Development Tools** | Git, GitHub, Visual Studio, VS Code, Postman |
-| **Exploring** | Docker, Azure, CI/CD, Clean Architecture |
-
----
-
-## `03` / Featured Projects
-
-### RoomDesk — Hotel Management System
-
-**ASP.NET Core MVC · .NET 8 · C# · JavaScript**
-
-Sistema de gestión hotelera diseñado para centralizar operaciones administrativas y facilitar la experiencia de reservación.
-
-**Core features**
-
-- Panel administrativo con indicadores de ocupación e ingresos.
-- Administración de habitaciones y huéspedes.
-- Gestión de reservaciones y facturación.
-- Motor público de reservas.
-- Generación de reportes PDF mediante QuestPDF.
-- Persistencia local mediante archivos JSON.
-- Confirmaciones de reservas mediante EmailJS.
-
-<div align="center">
-
-[![RoomDesk Repository](https://img.shields.io/badge/VIEW_SOURCE_CODE-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Putrefacto669/RoomDesk)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0369a1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://putrefacto669.github.io/RoomDesk-Demo/)
-
-</div>
-
-<br>
-
-### Registro Vehicular — Vehicle Management System
-
-**ASP.NET Core MVC · C# · SQL Server**
-
-Sistema web orientado al registro, consulta y administración de información vehicular.
-
-**Core features**
-
-- Operaciones de gestión y consulta de registros.
-- Integración con Microsoft SQL Server.
-- Interfaz administrativa basada en MVC.
-- Generación y exportación de reportes.
-
-<br>
-
-### VitaWA — Software Project
-
-Proyecto personal publicado en GitHub, parte de mi exploración y desarrollo de nuevas soluciones de software.
-
-[![VitaWA Repository](https://img.shields.io/badge/EXPLORE_VITAWA-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc)](https://github.com/Putrefacto669/VitaWA)
-
----
-
-## `04` / Development Journey
+> Primero, entender el problema. Después, darle una estructura. Siempre, seguir mejorando.
 
 ```text
-2024 ──┐
-       └── Started Systems Engineering
-           Programming fundamentals
-           Software development foundations
-
-2025 ──┐
-       └── Web applications & databases
-           ASP.NET Core MVC
-           SQL Server
-           Academic and independent projects
-
-2026 ──┐
-       └── Hotel management software
-           RoomDesk development
-           Hotel website maintenance
-           Backend architecture & engineering
-
-NEXT ──┐
-       └── Cloud infrastructure
-           CI/CD pipelines
-           Scalable backend systems
-           Advanced software architecture
+enfoque      → backend · bases de datos · arquitectura
+ahora        → RoomDesk · soluciones para hotelería
+aprendiendo  → Clean Architecture · Docker · Azure · CI/CD
+fuera del IDE → música · videojuegos · diseño visual
 ```
 
+<br />
+
+## 02 / Herramientas del oficio
+
+**Mi núcleo de trabajo**
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-181818?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-181818?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/SQL_Server-181818?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Git-181818?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
+
+| Área | Tecnologías y conceptos |
+| :--- | :--- |
+| **Backend** | C# · .NET 8 · ASP.NET Core MVC · APIs REST |
+| **Datos** | SQL Server · T-SQL · Entity Framework Core · ADO.NET |
+| **Otras bases de datos** | PostgreSQL · MySQL · SQLite |
+| **Interfaz web** | Razor Views · JavaScript · HTML · CSS · Bootstrap |
+| **Arquitectura** | MVC · capas · separación de responsabilidades |
+| **Entorno** | Git · GitHub · Visual Studio · VS Code · Postman · Linux · Windows |
+
+<details>
+<summary><b>Otros lenguajes y tecnologías que exploro</b></summary>
+
+<br />
+
+Python, PHP y Ruby forman parte de mi recorrido de aprendizaje. Estoy profundizando en Docker, Azure, automatización con CI/CD y Clean Architecture para seguir ampliando mi forma de construir y desplegar aplicaciones.
+
+</details>
+
+<br />
+
+## 03 / Trabajo seleccionado
+
+### RoomDesk
+<samp>01 — SISTEMA DE GESTIÓN HOTELERA</samp>
+
+Una aplicación para centralizar la operación de un hotel, desde la administración de habitaciones hasta la experiencia de reserva.
+
+**C# · ASP.NET Core MVC · .NET 8 · JavaScript**
+
+- **Operación:** administración de habitaciones, huéspedes, reservaciones y facturación.
+- **Visibilidad:** panel con indicadores de ocupación e ingresos y reportes PDF con QuestPDF.
+- **Reservas:** motor público y confirmaciones mediante EmailJS.
+- **Persistencia:** almacenamiento local mediante archivos JSON.
+
+[**Explorar código ↗**](https://github.com/Putrefacto669/RoomDesk) &nbsp; · &nbsp; [Ver demo ↗](https://putrefacto669.github.io/RoomDesk-Demo/)
+
 ---
 
-## `05` / GitHub Analytics
+### Registro Vehicular
+<samp>02 — ADMINISTRACIÓN Y CONSULTA DE REGISTROS</samp>
+
+Sistema web para registrar, consultar y administrar información vehicular, con una interfaz administrativa basada en MVC y generación y exportación de reportes.
+
+**C# · ASP.NET Core MVC · SQL Server**
+
+---
+
+### VitaWA
+<samp>03 — EXPLORACIÓN PERSONAL</samp>
+
+Un proyecto personal que forma parte de mi exploración de nuevas soluciones de software y del aprendizaje a través de la práctica.
+
+[**Explorar código ↗**](https://github.com/Putrefacto669/VitaWA)
+
+<br />
+
+## 04 / En construcción
+
+Mi recorrido empezó con fundamentos de programación e Ingeniería en Sistemas en **2024**. En **2025** avancé hacia aplicaciones web y bases de datos con ASP.NET Core MVC y SQL Server. En **2026**, mi enfoque está en RoomDesk, soluciones para hotelería y arquitectura backend.
+
+**Lo que sigue**
+
+- [ ] Aplicar Clean Architecture en un proyecto orientado a producción.
+- [ ] Contenerizar una aplicación .NET completa con Docker.
+- [ ] Desplegar en Azure y automatizar entregas con CI/CD.
+- [ ] Diseñar y documentar APIs REST escalables.
+- [ ] Profundizar en Domain-Driven Design y fundamentos de Kubernetes.
+
+<details>
+<summary><b>Actividad en GitHub</b></summary>
+
+<br />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Putrefacto669&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=fbbf24&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Putrefacto669&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101010&amp;title_color=f4f1eb&amp;icon_color=aaaaaa&amp;text_color=b9b9b9&amp;rank_icon=github" width="480" alt="Estadísticas de GitHub de Putrefacto669" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putrefacto669&layout=compact&hide_border=true&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&langs_count=7" alt="Most Used Languages" />
+<br />
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Putrefacto669&hide_border=true&background=0D1117&ring=7DD3FC&fire=FBBF24&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=94A3B8" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Putrefacto669&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=fbbf24&area=true&hide_border=true" width="97%" alt="GitHub Activity Graph" />
+[Ver contribuciones y repositorios ↗](https://github.com/Putrefacto669?tab=repositories)
 
 </div>
 
----
+</details>
 
-## `06` / Engineering Roadmap
+<br />
 
-**Current priorities**
+## 05 / Conversemos
 
-- [x] Build a complete ASP.NET Core MVC application
-- [x] Develop RoomDesk's hotel management features
-- [x] Implement SQL Server-based applications
-- [x] Work with Git and GitHub repositories
-- [ ] Apply Clean Architecture in a production-oriented project
-- [ ] Containerize a complete .NET application with Docker
-- [ ] Deploy an ASP.NET Core application to Azure
-- [ ] Implement automated CI/CD pipelines
-- [ ] Explore Domain-Driven Design
-- [ ] Learn Kubernetes fundamentals
-- [ ] Design and document scalable REST APIs
+Me interesan los proyectos que combinan **ingeniería y creatividad**: herramientas personalizadas, aplicaciones independientes y sistemas que hacen más sencillo el trabajo de alguien.
+
+Si compartes ese interés, puedes conocer mi trabajo y conectar conmigo en GitHub.
+
+[**@Putrefacto669 ↗**](https://github.com/Putrefacto669) &nbsp; / &nbsp; [Repositorios ↗](https://github.com/Putrefacto669?tab=repositories) &nbsp; / &nbsp; [RoomDesk ↗](https://github.com/Putrefacto669/RoomDesk)
+
+<br />
 
 ---
-
-## `07` / Beyond the Code
-
-La programación es una parte importante de mi vida, pero también encuentro inspiración en la música, los videojuegos, el diseño visual y la experimentación tecnológica.
-
-Me interesan especialmente los proyectos que combinan ingeniería con creatividad: interfaces diferentes, herramientas personalizadas, aplicaciones independientes y software inspirado en tecnologías clásicas.
-
-Creo que un buen desarrollador no solamente aprende a utilizar herramientas; también aprende a cuestionarlas, comprenderlas y construir algo propio.
-
----
-
-## `08` / Connect
 
 <div align="center">
 
-**Interested in software engineering, backend systems or collaborative development?**
+<br />
 
-Explore my repositories and projects.
+<img src="./assets/cat.jpg" width="340" alt="Un gato blanco entrecerrando los ojos sobre un fondo negro" />
 
-<br>
+<br /><br />
 
-[![GitHub](https://img.shields.io/badge/GITHUB_PROFILE-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Putrefacto669)
-[![RoomDesk](https://img.shields.io/badge/ROOMDESK_PROJECT-0369a1?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Putrefacto669/RoomDesk)
+<samp>UN COMMIT MÁS Y DESCANSO.</samp>
 
-<br><br>
+<br /><br />
 
-![Followers](https://img.shields.io/github/followers/Putrefacto669?style=flat-square&color=7dd3fc&labelColor=0d1117&label=Followers)
-![Profile Views](https://komarev.com/ghpvc/?username=Putrefacto669&style=flat-square&color=7dd3fc&label=Profile+Views)
-
-<br>
-
-*"Programs must be written for people to read, and only incidentally for machines to execute."*
-
-**— Harold Abelson**
-
-<br>
-
-**ENGINEER THE SOLUTION. UNDERSTAND THE SYSTEM. KEEP BUILDING.**
+<sub>Josué Urbina · Construir. Entender. Mejorar.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=120&section=footer" width="100%" />
