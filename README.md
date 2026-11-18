@@ -1,163 +1,176 @@
 <div align="center">
 
-<img src="./assets/spider-lilies.jpg" width="100%" alt="Lirios araña en blanco y negro" />
-<img src="./assets/identity.svg" width="100%" alt="Josué Urbina — Backend Developer. Entender el sistema. Construir con intención." />
+<img src="./assets/dark-room/welcome.svg" width="100%" alt="Putrefacto’s little web room — Josué Urbina · backend developer · Nicaragua" />
 
 <br />
 
-<samp>ESTUDIANTE DE INGENIERÍA EN SISTEMAS · DESARROLLADOR BACKEND</samp>
+<samp>♡ bienvenido a mi rincón de internet. puedes quedarte un rato ♡</samp>
 
 <br /><br />
 
-[Sobre mí](#01--detrás-del-código) &nbsp; / &nbsp; [Stack](#02--herramientas-del-oficio) &nbsp; / &nbsp; [Proyectos](#03--trabajo-seleccionado) &nbsp; / &nbsp; [Contacto](#05--conversemos)
+[about me](#about-me) ⊹ [toolbox](#toolbox) ⊹ [projects](#projects) ⊹ [loading...](#loading) ⊹ [links](#links)
 
 <br />
 
-<sub>Nicaragua · Ecosistema .NET · Arquitectura de software · Proyectos con propósito</sub>
+<img src="./assets/dark-room/dotnet.svg" width="88" alt="I love .NET" /> <img src="./assets/dark-room/catperson.svg" width="88" alt="Cat person" /> <img src="./assets/dark-room/handmade.svg" width="88" alt="Hand coded" /> <img src="./assets/dark-room/night.svg" width="88" alt="Night owl" /> <img src="./assets/dark-room/web.svg" width="88" alt="Small web" />
+
+<br /><br />
+
+<img src="./assets/dark-room/divider.svg" width="100%" alt="" />
 
 </div>
 
+<a id="about-me"></a>
+<img src="./assets/dark-room/about.svg" width="100%" alt="01 — About this human" />
+
+<table>
+<tr>
+<td width="67%" valign="top">
+
+### Josué Urbina <sup>♡</sup>
+
+<samp>@Putrefacto669 / Nicaragua / Ingeniería en Sistemas</samp>
+
+Hola. Construyo cosas con **C#, ASP.NET Core y SQL Server** y trato de entender qué pasa detrás de cada pantalla.
+
+Me interesan el backend, las bases de datos y la arquitectura de software. Actualmente trabajo en **RoomDesk** y en soluciones para la industria hotelera.
+
+Este espacio es mitad portafolio, mitad habitación digital: código, música, videojuegos y un poco de caos organizado.
+
+> Soft heart. Dark theme. One more commit.
+
+</td>
+<td width="33%" align="center" valign="middle">
+<img src="./assets/dark-room/cat.jpg" width="230" alt="Miembro honorario del departamento de control de calidad: un gato somnoliento" />
+<br /><br />
+<samp>head of quality assurance</samp>
 <br />
-
-## 01 / Detrás del código
-
-Soy **Josué Urbina**, estudiante de **Ingeniería en Sistemas** y desarrollador enfocado en **C#, ASP.NET Core y SQL Server**. Me interesa entender cómo encajan las piezas de una aplicación: sus datos, sus reglas y las decisiones que permiten mantenerla en el tiempo.
-
-Construyo aplicaciones web, sistemas administrativos y herramientas que resuelven problemas concretos. Actualmente trabajo en **RoomDesk** y en el desarrollo y mantenimiento de soluciones para la industria hotelera.
-
-> Primero, entender el problema. Después, darle una estructura. Siempre, seguir mejorando.
+<sub>revisa el código. se duerme.</sub>
+</td>
+</tr>
+</table>
 
 ```text
-enfoque      → backend · bases de datos · arquitectura
-ahora        → RoomDesk · soluciones para hotelería
-aprendiendo  → Clean Architecture · Docker · Azure · CI/CD
-fuera del IDE → música · videojuegos · diseño visual
+┌─ user.config ─────────────────────────────────────┐
+│ role       backend developer                     │
+│ studying   ingeniería en sistemas                │
+│ building   RoomDesk / software para hotelería    │
+│ interests  arquitectura · SaaS · automatización   │
+│ philosophy construir. entender. mejorar.         │
+└──────────────────────────────────────────────────┘
 ```
 
-<br />
+<a id="toolbox"></a>
+<img src="./assets/dark-room/stack.svg" width="100%" alt="02 — My toolbox" />
 
-## 02 / Herramientas del oficio
+<br /><br />
 
-**Mi núcleo de trabajo**
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-181818?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-181818?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/SQL_Server-181818?style=flat-square" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-181818?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-</p>
-
-| Área | Tecnologías y conceptos |
+| Directorio | Lo que hay dentro |
 | :--- | :--- |
-| **Backend** | C# · .NET 8 · ASP.NET Core MVC · APIs REST |
-| **Datos** | SQL Server · T-SQL · Entity Framework Core · ADO.NET |
-| **Otras bases de datos** | PostgreSQL · MySQL · SQLite |
-| **Interfaz web** | Razor Views · JavaScript · HTML · CSS · Bootstrap |
-| **Arquitectura** | MVC · capas · separación de responsabilidades |
-| **Entorno** | Git · GitHub · Visual Studio · VS Code · Postman · Linux · Windows |
+| `♡ /backend` | **C# · .NET 8 · ASP.NET Core MVC · REST APIs** |
+| `♡ /database` | SQL Server · T-SQL · Entity Framework Core · ADO.NET |
+| `♡ /also-data` | PostgreSQL · MySQL · SQLite |
+| `♡ /frontend` | Razor Views · JavaScript · HTML · CSS · Bootstrap |
+| `♡ /architecture` | MVC · arquitectura en capas · separación de responsabilidades |
+| `♡ /tools` | Git · GitHub · Visual Studio · VS Code · Postman · Linux · Windows |
+| `♡ /learning` | Docker · Azure · CI/CD · Clean Architecture |
 
 <details>
-<summary><b>Otros lenguajes y tecnologías que exploro</b></summary>
+<summary><samp>+ abrir el cajón de otros lenguajes</samp></summary>
 
-<br />
-
-Python, PHP y Ruby forman parte de mi recorrido de aprendizaje. Estoy profundizando en Docker, Azure, automatización con CI/CD y Clean Architecture para seguir ampliando mi forma de construir y desplegar aplicaciones.
+Python, PHP y Ruby también forman parte de mi recorrido. Me gusta aprender construyendo proyectos reales, probando ideas y entendiendo por qué algo funciona.
 
 </details>
 
 <br />
 
-## 03 / Trabajo seleccionado
+<a id="projects"></a>
+<img src="./assets/dark-room/projects.svg" width="100%" alt="03 — Things I made" />
 
-### RoomDesk
-<samp>01 — SISTEMA DE GESTIÓN HOTELERA</samp>
+### ♡ RoomDesk
+<samp>featured project / hotel management system</samp>
 
-Una aplicación para centralizar la operación de un hotel, desde la administración de habitaciones hasta la experiencia de reserva.
+Un sistema para ordenar el pequeño caos de un hotel: habitaciones, huéspedes, reservaciones y facturación, en una sola aplicación.
 
 **C# · ASP.NET Core MVC · .NET 8 · JavaScript**
 
-- **Operación:** administración de habitaciones, huéspedes, reservaciones y facturación.
-- **Visibilidad:** panel con indicadores de ocupación e ingresos y reportes PDF con QuestPDF.
-- **Reservas:** motor público y confirmaciones mediante EmailJS.
-- **Persistencia:** almacenamiento local mediante archivos JSON.
+- Panel administrativo con indicadores de ocupación e ingresos.
+- Gestión de habitaciones, huéspedes, reservas y facturación.
+- Motor público de reservas y confirmaciones con EmailJS.
+- Reportes PDF con QuestPDF y persistencia local en JSON.
 
-[**Explorar código ↗**](https://github.com/Putrefacto669/RoomDesk) &nbsp; · &nbsp; [Ver demo ↗](https://putrefacto669.github.io/RoomDesk-Demo/)
+[**[ abrir repositorio ↗ ]**](https://github.com/Putrefacto669/RoomDesk) &nbsp; [**[ visitar demo ↗ ]**](https://putrefacto669.github.io/RoomDesk-Demo/)
 
----
+<img src="./assets/dark-room/divider.svg" width="100%" alt="" />
 
-### Registro Vehicular
-<samp>02 — ADMINISTRACIÓN Y CONSULTA DE REGISTROS</samp>
+### ♡ Registro Vehicular
+<samp>web application / records & databases</samp>
 
-Sistema web para registrar, consultar y administrar información vehicular, con una interfaz administrativa basada en MVC y generación y exportación de reportes.
+Registro, consulta y administración de información vehicular, con interfaz administrativa MVC y generación y exportación de reportes.
 
 **C# · ASP.NET Core MVC · SQL Server**
 
----
+<img src="./assets/dark-room/divider.svg" width="100%" alt="" />
 
-### VitaWA
-<samp>03 — EXPLORACIÓN PERSONAL</samp>
+### ♡ VitaWA
+<samp>personal project / experiments folder</samp>
 
-Un proyecto personal que forma parte de mi exploración de nuevas soluciones de software y del aprendizaje a través de la práctica.
+Un espacio para explorar nuevas soluciones de software y seguir aprendiendo a través de la práctica.
 
-[**Explorar código ↗**](https://github.com/Putrefacto669/VitaWA)
+[**[ abrir repositorio ↗ ]**](https://github.com/Putrefacto669/VitaWA)
 
 <br />
 
-## 04 / En construcción
+<a id="loading"></a>
+<img src="./assets/dark-room/roadmap.svg" width="100%" alt="04 — Still loading" />
 
-Mi recorrido empezó con fundamentos de programación e Ingeniería en Sistemas en **2024**. En **2025** avancé hacia aplicaciones web y bases de datos con ASP.NET Core MVC y SQL Server. En **2026**, mi enfoque está en RoomDesk, soluciones para hotelería y arquitectura backend.
+```text
+2024  save_01  fundamentos de programación e Ingeniería en Sistemas
+2025  save_02  aplicaciones web · ASP.NET Core MVC · SQL Server
+2026  save_03  RoomDesk · hotelería · arquitectura backend
+next  save_??  cloud · automatización · sistemas escalables
+```
 
-**Lo que sigue**
+<details>
+<summary><samp>+ side quests pendientes</samp></summary>
 
 - [ ] Aplicar Clean Architecture en un proyecto orientado a producción.
-- [ ] Contenerizar una aplicación .NET completa con Docker.
-- [ ] Desplegar en Azure y automatizar entregas con CI/CD.
+- [ ] Contenerizar una aplicación .NET con Docker.
+- [ ] Desplegar en Azure.
+- [ ] Automatizar entregas con CI/CD.
 - [ ] Diseñar y documentar APIs REST escalables.
 - [ ] Profundizar en Domain-Driven Design y fundamentos de Kubernetes.
 
+</details>
+
 <details>
-<summary><b>Actividad en GitHub</b></summary>
+<summary><samp>+ abrir el registro de actividad</samp></summary>
 
-<br />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Putrefacto669&amp;show_icons=true&amp;hide_border=true&amp;bg_color=101010&amp;title_color=f4f1eb&amp;icon_color=aaaaaa&amp;text_color=b9b9b9&amp;rank_icon=github" width="480" alt="Estadísticas de GitHub de Putrefacto669" />
-
-<br />
-
-[Ver contribuciones y repositorios ↗](https://github.com/Putrefacto669?tab=repositories)
-
-</div>
+Mi actividad, contribuciones y repositorios están disponibles en [mi perfil de GitHub](https://github.com/Putrefacto669).
 
 </details>
 
 <br />
 
-## 05 / Conversemos
+<a id="links"></a>
+<img src="./assets/dark-room/links.svg" width="100%" alt="05 — Stay a little longer" />
 
-Me interesan los proyectos que combinan **ingeniería y creatividad**: herramientas personalizadas, aplicaciones independientes y sistemas que hacen más sencillo el trabajo de alguien.
-
-Si compartes ese interés, puedes conocer mi trabajo y conectar conmigo en GitHub.
-
-[**@Putrefacto669 ↗**](https://github.com/Putrefacto669) &nbsp; / &nbsp; [Repositorios ↗](https://github.com/Putrefacto669?tab=repositories) &nbsp; / &nbsp; [RoomDesk ↗](https://github.com/Putrefacto669/RoomDesk)
-
-<br />
-
----
+Me gustan los proyectos que mezclan ingeniería y creatividad. Si estás construyendo algo con personalidad, quizá tengamos cosas de qué hablar.
 
 <div align="center">
 
+[**[ github ↗ ]**](https://github.com/Putrefacto669) &nbsp; ⊹ &nbsp; [**[ mis repositorios ↗ ]**](https://github.com/Putrefacto669?tab=repositories) &nbsp; ⊹ &nbsp; [**[ RoomDesk ↗ ]**](https://github.com/Putrefacto669/RoomDesk)
+
 <br />
 
-<img src="./assets/cat.jpg" width="340" alt="Un gato blanco entrecerrando los ojos sobre un fondo negro" />
+<img src="./assets/dark-room/spider-lilies.jpg" width="100%" alt="Lirios araña monocromáticos, el pequeño jardín de esta habitación digital" />
 
 <br /><br />
 
-<samp>UN COMMIT MÁS Y DESCANSO.</samp>
+<samp>✧ internet se siente mejor cuando tiene rincones propios ✧</samp>
 
 <br /><br />
 
-<sub>Josué Urbina · Construir. Entender. Mejorar.</sub>
+<img src="./assets/dark-room/footer.svg" width="100%" alt="Gracias por visitar mi pequeño rincón. No thoughts, just cats and backend. Siempre en construcción." />
 
 </div>
